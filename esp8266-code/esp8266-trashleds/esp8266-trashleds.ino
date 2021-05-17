@@ -127,6 +127,7 @@ void loop() {
       bundle.dispatch("/led", leds);
     } else {
       error = bundle.getError();
+      Serial.print(message);
       Serial.print("error: ");
       Serial.println(error);
     }
