@@ -80,7 +80,7 @@ line 40: > video = new Capture(this, width, height, cameras[x]); <
 
 ### Node MCU wiring
 
-![LED](Aufbau LEDs.png)
+<img src="./Aufbau LEDs.png" width="500">
 
 ## Theoretical extentions
 
