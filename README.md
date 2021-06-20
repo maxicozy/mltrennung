@@ -7,8 +7,7 @@ MLtrennung is a machine learning prototype to classify litter and determine in w
 
 ## Status
 
-This is a work in progress.
-Currently attemting to prove concept.
+This is a work in progress protoype.
 
 ## Installation 
 
