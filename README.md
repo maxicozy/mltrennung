@@ -1,6 +1,6 @@
 # mltrennung
 
-## Discription 
+## Description 
 
 MLtrennung is a machine learning prototype to classify litter and determine in wich bin it has to go. 
 
